@@ -9,9 +9,9 @@ This project is a custom controller board built to replace the original controll
 
 ![Controller](images/freezer_1.jpg)
 
-<div style="display: flex; flex-direction: row; justify-content: space-between">
-    <img src="images/freezer_5.jpg" width="48%" />
-    <img src="images/freezer_6.jpg" width="48%" />
+<div style="display: flex; flex-direction: row; justify-content: space-around">
+    <img src="images/freezer_5.jpg" width="50%" />
+    <img src="images/freezer_6.jpg" width="49%" />
 </div>
 
 ### Features:
